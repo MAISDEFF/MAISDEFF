@@ -19,15 +19,6 @@ I enjoy turning layouts into responsive web pages and learning how modern websit
 
 ---
 
-## 📚 Currently Learning
-
-- JavaScript
-- Responsive web development
-- Working with Git and GitHub
-- Improving HTML & CSS skills
-- Building real projects for practice
-
----
 
 ## 🚀 Projects
 
