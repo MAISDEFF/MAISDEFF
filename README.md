@@ -21,6 +21,12 @@
 ---
 
 ## 🚀 Мои проекты
+### 🏗️ Construction layout
+
+Адаптивный лендинг, созданный с использованием HTML, CSS, JavaScript.
+
+🔗 [Открыть сайт](https://maisdeff.github.io/Construction-layout/)  
+💻 [Посмотреть репозиторий](https://github.com/MAISDEFF/Construction-layout)
 
 ### 💰 Investment Calculator
 
@@ -36,12 +42,6 @@
 🔗 [Открыть сайт](https://maisdeff.github.io/Avtomotive/)  
 💻 [Посмотреть репозиторий](https://github.com/MAISDEFF/Avtomotive)
 
-### 🖥 Logoipsum
-
-Адаптивный лендинг, созданный с использованием HTML и CSS.
-
-🔗 [Открыть сайт](https://maisdeff.github.io/Logoipsum/)  
-💻 [Посмотреть репозиторий](https://github.com/MAISDEFF/Logoipsum)
 
 ---
 
