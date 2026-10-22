@@ -1,15 +1,16 @@
-# Hi, I'm Kirill 👋
+# Привет, я Кирилл 👋
 
-### Beginner Frontend Developer
+### Frontend-разработчик
 
-I'm a university student and beginner frontend developer.  
-Currently I'm learning JavaScript and improving my skills by building small web projects.
+Я учусь в университете и занимаюсь frontend-разработкой.
 
-I enjoy turning layouts into responsive web pages and learning how modern websites work.
+Создаю адаптивные веб-страницы по макетам, развиваю навыки работы с HTML, CSS и JavaScript. Мне нравится превращать дизайн в аккуратные и удобные интерфейсы, а также разбираться в том, как устроены современные сайты.
+
+Постоянно практикуюсь, изучаю новые технологии и публикую свои проекты на GitHub.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Технологии
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,40 +20,40 @@ I enjoy turning layouts into responsive web pages and learning how modern websit
 
 ---
 
-
-## 🚀 Projects
+## 🚀 Мои проекты
 
 ### 💰 Investment Calculator
-A small web project for calculating investments.
 
-🔗 [Live Demo](https://maisdeff.github.io/Investment-calculator/)  
-💻 [Repository](https://github.com/MAISDEFF/Investment-calculator)
+Веб-приложение для расчёта доходности инвестиций.
+
+🔗 [Открыть сайт](https://maisdeff.github.io/Investment-calculator/)  
+💻 [Посмотреть репозиторий](https://github.com/MAISDEFF/Investment-calculator)
 
 ### 🚗 Avtomotive
-Frontend layout project created for practice.
 
-🔗 [Live Demo](https://maisdeff.github.io/Avtomotive/)  
-💻 [Repository](https://github.com/MAISDEFF/Avtomotive)
+Адаптивная верстка автомобильного лендинга.
+
+🔗 [Открыть сайт](https://maisdeff.github.io/Avtomotive/)  
+💻 [Посмотреть репозиторий](https://github.com/MAISDEFF/Avtomotive)
 
 ### 🖥 Logoipsum
-Responsive landing page created while practicing HTML and CSS.
 
-🔗 [Live Demo](https://maisdeff.github.io/Logoipsum/)  
-💻 [Repository](https://github.com/MAISDEFF/Logoipsum)
+Адаптивный лендинг, созданный с использованием HTML и CSS.
 
----
-
-## 🎯 My Goal
-
-My current goal is to strengthen my frontend fundamentals, learn JavaScript well and gradually move on to more complex web applications.
-
-I'm constantly practicing and adding new projects to my GitHub.
+🔗 [Открыть сайт](https://maisdeff.github.io/Logoipsum/)  
+💻 [Посмотреть репозиторий](https://github.com/MAISDEFF/Logoipsum)
 
 ---
 
+## 🎯 Моя цель
 
+Сейчас я укрепляю знания HTML и CSS, углублённо изучаю JavaScript и постепенно перехожу к созданию более сложных веб-приложений.
 
-## 📫 Contact
+Моя цель — развиваться во frontend-разработке, писать понятный код и создавать удобные, адаптивные интерфейсы.
+
+---
+
+## 📫 Контакты
 
 - GitHub: [@MAISDEFF](https://github.com/MAISDEFF)
 - Telegram: [@MAISDEF](https://t.me/MAISDEF)
