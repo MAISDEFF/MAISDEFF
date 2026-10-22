@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 Мои проекты
-### 🏗️ Construction layout
+### 🏗️ Construction
 
 Адаптивный лендинг, созданный с использованием HTML, CSS, JavaScript.
 
@@ -35,12 +35,12 @@
 🔗 [Открыть сайт](https://maisdeff.github.io/Investment-calculator/)  
 💻 [Посмотреть репозиторий](https://github.com/MAISDEFF/Investment-calculator)
 
-### 🚗 Avtomotive
+### ⚡ Apple prodaction
 
-Адаптивная верстка автомобильного лендинга.
+Адаптивная верстка одностраночного сайта.
 
-🔗 [Открыть сайт](https://maisdeff.github.io/Avtomotive/)  
-💻 [Посмотреть репозиторий](https://github.com/MAISDEFF/Avtomotive)
+🔗 [Открыть сайт](https://maisdeff.github.io/Apple-prodaction-layout/)  
+💻 [Посмотреть репозиторий](https://github.com/MAISDEFF/Apple-prodaction-layout)
 
 
 ---
